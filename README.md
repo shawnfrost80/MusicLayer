@@ -1,6 +1,6 @@
-# musiclayer
+# MusicLayer
 
-A new Flutter application.
+A full Fledged Music Player. Made with Android Studio with the help of Flutter Framework.
 
 ## Getting Started
 
