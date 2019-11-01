@@ -2,11 +2,17 @@
 
 A full Fledged Music Player. Made with Android Studio with the help of Flutter Framework.
 
+# How to Run
+To run This on your device:
+
+1. Download All the Fles on your PC and Put them in one Folder.
+2. Open this folder with Android Studio
+3. Connect Your Device/ Emulator and Click on "Run"
+Go ahead and try this App. Suggestions and Improvements are most Welcome.
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with Flutter:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
